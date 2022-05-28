@@ -22,3 +22,28 @@ BFS用来求最短，但是不符合此题要求
 
 ![image-20220126130534679](C:\Users\Wang Lei\AppData\Roaming\Typora\typora-user-images\image-20220126130534679.png)
 
+```C
+void dfs(int step)
+{
+    if(step==n+1)
+    {
+        for(int i=1;i<=n;i++)
+        {
+           printf("%d ",num[i]);
+        }
+        printf("\n");
+        return;
+    }
+    for(int i=1;i<=n;i++)
+    {
+        if(vis[i]==0)
+        {
+            num[step]=i;
+            vis[i]=1;
+            dfs(step+1);
+            vis[i]=0;
+        }
+    }
+}
+```
+
