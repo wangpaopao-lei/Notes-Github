@@ -222,7 +222,7 @@ $$
 \vdots & \vdots & \ddots & \vdots \\
 1 & 1 & \cdots & 1 \\
 \end{bmatrix}
-$$ 
+$$
 
 行列式: 
 

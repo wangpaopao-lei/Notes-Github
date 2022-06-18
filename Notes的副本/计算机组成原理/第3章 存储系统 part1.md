@@ -106,6 +106,12 @@ CachedDRAM：在 DRAM 主存芯片与 CPU 交互接口上增加的小容量高�
 
 ## DRAM 存储器的发展
 
+Problem：提高 DRAM 的芯片访问速度
+
+Solution：
+
+1. 允许重复存取行缓冲区而无需增加另外的行存取时间
+
 ## 闪存 FLASH 概述
 
 FLAH：电可擦、非易失只读存储器
