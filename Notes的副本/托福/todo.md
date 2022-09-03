@@ -1,3 +1,5 @@
 - [ ] Tpo 33 passage1 精读
 - [ ] TPO 33 Passage2 精读
+- [ ] 33 con1 精听前面一部分
+- [ ] 33 lec1 整篇精听
 - [ ] 
