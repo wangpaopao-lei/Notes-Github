@@ -10,12 +10,12 @@
 
 
 
-- [ ] TPO34 lec1
+- [x] TPO34 lec1
 - [ ] lec2
 - [ ] con2
-- [ ] 
 
 
 
 - [ ] con1
 - [ ] 
+
