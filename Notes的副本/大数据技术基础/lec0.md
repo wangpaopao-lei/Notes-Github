@@ -27,3 +27,52 @@
 
 
 <img src="https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/image-20220906121813499.png" alt="image-20220906121813499"  />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+图：社交网络、病毒传染途径
+
+大数据技术需要解决子图拆分的问题
+
+
+
+大数据技术框架
+
+![image-20220913105234779](https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/image-20220913105234779.png)
+
+
+
+Google 的大数据技术栈
+
+<img src="https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/image-20220913114507635.png" alt="image-20220913114507635"  />
+
+
+
+开源大数据技术栈（Hadoop 与 spark）
+
+![image-20220913120111279](https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/image-20220913120111279.png)
+
+
+
+数据收集层
+
+关系型数据（由数据库导入）
+
+非关系型数据（流式日志文件）
+
+分布式消息队列：解决数据产生和处理速度不匹配
+
