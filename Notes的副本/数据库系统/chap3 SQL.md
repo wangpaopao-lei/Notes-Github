@@ -245,3 +245,17 @@ update instructor               		set salary = case
 
 ```
 
+
+
+some all
+
+exist not exists
+
+无关子查询，相关子查询
+
+除法操作
+
+
+
+
+
