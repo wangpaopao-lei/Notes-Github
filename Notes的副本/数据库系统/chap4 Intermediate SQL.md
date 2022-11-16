@@ -107,3 +107,58 @@ U-R-P
 
 
 作业3.9,3.10，3.18,4.3,4.9,4.20
+
+## Trigger
+
+---
+
+部署在服务器端：满足条件时自动执行，包括两部分
+
+1. 触发的条件（一般为对数据的增删改查）
+2. 触发后的动作
+
+
+
+```sql
+create trigger credits earned after update of takes on grade 
+referencing new row as nrow 
+referencing old row as orow 
+for each row 
+when nrow.grade <> ’F’ and nrow.grade is not null
+
+and (orow.grade = ’F’ or orow.grade is null) 
+begin atomic
+
+update student
+
+set tot cred= tot cred+
+
+(select credits
+
+from course
+
+where course.course id= nrow.course id)
+
+where student.id = nrow.id; 
+end;
+```
+
+行触发器（for each row）
+
+语句触发器（for each statement）
+
+
+
+# Advanced SQL
+
+SQL 一种语句两种用法：
+
+1. 直接使用，在交互界面
+2. 通过 API 在其他语言里使用（嵌入式 SQL）
+
+两套标准
+
+ODBC
+
+JDBC
+
