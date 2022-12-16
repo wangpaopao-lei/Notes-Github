@@ -101,3 +101,6 @@
 
 # YARN——资源管理与调度系统
 
+
+
+![image-20221213112526289](https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/image-20221213112526289.png)

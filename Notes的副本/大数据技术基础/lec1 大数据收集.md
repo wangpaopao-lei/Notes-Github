@@ -151,7 +151,7 @@ producer-broker-consumer
 
 优势
 
-1. consumer课根据自己的实际负载和需求获取西湖局，避免 consumer 收到较大压力
+1. consumer课根据自己的实际负载和需求获取数据，避免 consumer 收到较大压力
 2. consumer自己维护已读取信息的 Offset 而不是 broker 维护，使得 broker 更加轻量级
 
 ### 组件详解
