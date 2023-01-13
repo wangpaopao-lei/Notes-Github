@@ -28,11 +28,11 @@ Acherman 函数
 
 ## 线性时间选择
 
-![IMG_6609(20221003-134248)](https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/IMG_6609(20221003-134248).JPG)
+<img src="https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/IMG_6609(20221003-134248).JPG" alt="IMG_6609(20221003-134248)" style="zoom:33%;" />
 
 ## 平面最近点对
 
-![IMG_6610(20221003-134343)](https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/IMG_6610(20221003-134343).JPG)
+<img src="https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/IMG_6610(20221003-134343).JPG" alt="IMG_6610(20221003-134343)" style="zoom:33%;" />
 
 
 
