@@ -65,7 +65,7 @@ DBMS 可以类比为对数据库的操作系统
 
 ----
 
-![image-20220913131905237](https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/image-20220913131905237.png)
+<img src="https://wangleidetuchuang.oss-cn-beijing.aliyuncs.com/img/image-20220913131905237.png" alt="image-20220913131905237" style="zoom: 67%;" />
 
 ### DATABASE
 
