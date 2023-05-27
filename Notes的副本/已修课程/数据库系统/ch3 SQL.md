@@ -44,6 +44,7 @@ alter table r add A D
 
 ### 查询
 
+关系代数
 
 $$
 \prod_{A 1, A 2, \ldots, A n}\left(\sigma_P\left(r_1 \times r_2 \times \quad \ldots \quad \times \quad r_m\right)\right)
@@ -259,4 +260,19 @@ exist not exists
 
 
 
+
+```sql
+select A
+	from r1 natural join r2
+```
+
+```sql
+select A
+	from r1,r2
+	where r1.asd=r2.dsadasfa
+```
+
+```sql
+
+```
 
